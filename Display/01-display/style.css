@@ -44,6 +44,7 @@ h1, h2, h3 {
     margin: 1px 0;
     color: white;
     border: 1px solid black;
+    display: inline-block;
 }
 
 .prvni {
